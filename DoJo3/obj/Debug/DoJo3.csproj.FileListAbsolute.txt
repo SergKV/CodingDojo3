@@ -14,3 +14,9 @@ C:\Users\user\Source\Repos\GitHomeTasks\DoJo3\DoJo3\obj\Debug\DoJo3.pdb
 C:\Users\user\Source\Repos\GitHomeTasks\DoJo3\DoJo3\bin\Debug\CodingDojo4DataLib.pdb
 C:\Users\user\Source\Repos\GitHomeTasks\DoJo3\DoJo3\obj\Debug\GeneratedInternalTypeHelper.g.cs
 C:\Users\user\Source\Repos\GitHomeTasks\DoJo3\DoJo3\bin\Debug\CodingDojo4DataLib.dll
+C:\Users\user\Desktop\DoJo3\DoJo3\bin\Debug\DoJo3.exe.config
+C:\Users\user\Desktop\DoJo3\DoJo3\obj\Debug\DoJo3.exe
+C:\Users\user\Desktop\DoJo3\DoJo3\obj\Debug\DoJo3.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\DoJo3\DoJo3\bin\Debug\DoJo3.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\DoJo3\DoJo3\obj\Debug\DoJo3.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\DoJo3\DoJo3\obj\Debug\DoJo3.pdb
